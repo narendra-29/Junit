@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="mockito-tutorial/src"/>
+	<classpathentry kind="src" path="mockito-tutorial/test"/>
+	<classpathentry kind="lib" path="mockito-tutorial/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/narendra_kumar/Downloads/powermock-module-junit4-common-2.0.0-beta.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendra_kumar/Downloads/powermock-api-mockito-1.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendra_kumar/Downloads/powermock-core-1.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendra_kumar/Downloads/powermock-module-junit4-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendra_kumar/Downloads/hamcrest-core-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendra_kumar/Downloads/hamcrest-junit-2.0.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendra_kumar/Downloads/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/junit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
